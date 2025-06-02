@@ -1,5 +1,3 @@
-package MediumLevel;
-
 public class PartitionList {
     static class Node{
         int val;
