@@ -1,3 +1,0 @@
-oublic class New{
-    
-}
