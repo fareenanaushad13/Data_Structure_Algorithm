@@ -11,6 +11,7 @@ This repository contains my Java solutions for Data Structures and Algorithms.
 - Recursion
 - Sorting
 - Searching
+- Dynamic Programming
 
 ## Language
 Java
