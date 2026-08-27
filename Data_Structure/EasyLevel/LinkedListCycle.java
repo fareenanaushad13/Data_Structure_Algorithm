@@ -30,7 +30,6 @@ public class LinkedListCycle{
         ListNode second = new ListNode(2);
         ListNode third = new ListNode(0);
         ListNode fourth = new ListNode(-4);
-         ListNode fith = new ListNode(-4);
 
         //connecting nodes
         head.next = second;
